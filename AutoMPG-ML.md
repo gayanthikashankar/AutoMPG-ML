@@ -4,7 +4,9 @@
 
 **Title of the project:** AutoMPG
 
-**Student:** Gayanthika Shankar (gayanthika.s-26@scds.saiuniversity.edu.in) **MLCategory:** Regression![ref1]
+**Student:** Gayanthika Shankar (gayanthika.s-26@scds.saiuniversity.edu.in) 
+
+**MLCategory:** Regression![ref1]
 
 1. **Introduction**
 
